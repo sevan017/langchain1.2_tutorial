@@ -12,3 +12,10 @@ env/
 # 日志、缓存
 *.log
 .DS_Store
+
+# 环境密钥文件
+.env
+*.env
+.env.local
+.env.prod
+.env.dev
